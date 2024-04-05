@@ -1,6 +1,6 @@
 # Information-Retreival-Project
 
-Our final project for the "Information Gathering" course at Ben-Gurion University involves the development of a search engine adapted to Wikipedia in English. Capable of searching over 6 million Wikipedia documents, this search engine is designed to quickly and efficiently return relevant results in response to queries from users across the entire collection of Wikipedia articles. We have carefully refined and implemented these methodologies to provide an optimal search experience for our users.
+Our final project for the "Information Retrieval" course at Ben-Gurion University involves the development of a search engine adapted to English Wikipedia. Capable of searching over 6 million Wikipedia documents, this search engine is designed to quickly and efficiently return relevant results in response to queries from users across the entire collection of Wikipedia articles. We have carefully refined and implemented these methodologies to provide an optimal search experience for our users.
 
 ### Files Included
 1. `search_frontend.py` - contains the 6 methods required to implement the search functionality: search, search according to document title, search according to document body, search according to document anchor text, get page views and get page rank functions. We currently only implement the search function
